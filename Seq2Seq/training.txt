@@ -1,0 +1,182 @@
+Original Sentence: Drei Mädchen stehen vor einem Fenster eines Gebäudes.
+Original Translation: Three girls stand in front of a window of a building.
+
+Epoch [0 / 30]
+=> Saving checkpoint
+['bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'bikinis', 'clustered', 'clustered', 'clustered', 'splashed', 'splashed', 'air', 'air', 'air', 'floors', 'floors', 'yard.', 'yard.', 'cardigan.', 'cardigan.', 'cardigan.', 'cardigan.', 'glider', 'glider', 'clustered', 'clustered', 'clustered', 'splashed', 'splashed', 'splashed', 'air', 'air', 'air']
+100% 454/454 [01:19<00:00,  5.69it/s]
+Loss: 5.0627710315099375
+
+Epoch [1 / 30]
+=> Saving checkpoint
+['three', 'people', 'are', 'a', 'a', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:22<00:00,  5.48it/s]
+Loss: 4.465383410978948
+
+Epoch [2 / 30]
+=> Saving checkpoint
+['three', 'men', 'are', 'a', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.44it/s]
+Loss: 4.230626777405256
+
+Epoch [3 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'in', 'a', 'a', 'in', 'a', '<eos>']
+100% 454/454 [01:22<00:00,  5.47it/s]
+Loss: 4.057221487230141
+
+Epoch [4 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'on', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.46it/s]
+Loss: 3.9305075391273667
+
+Epoch [5 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'sitting', 'on', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.43it/s]
+Loss: 3.805514550419106
+
+Epoch [6 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'sitting', 'on', 'a', 'table', 'with', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.46it/s]
+Loss: 3.702831252030864
+
+Epoch [7 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'standing', 'a', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:22<00:00,  5.49it/s]
+Loss: 3.6034129096547938
+
+Epoch [8 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'large', 'of', 'a', '<eos>']
+100% 454/454 [01:21<00:00,  5.57it/s]
+Loss: 3.4920822991148492
+
+Epoch [9 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'in', 'front', 'of', 'a', 'large', 'of', '<eos>']
+100% 454/454 [01:25<00:00,  5.32it/s]
+Loss: 3.404568834977003
+
+Epoch [10 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'standing', 'front', 'front', 'of', 'a', 'of', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.47it/s]
+Loss: 3.318689694488626
+
+Epoch [11 / 30]
+=> Saving checkpoint
+['three', 'girls', 'stand', 'in', 'front', 'of', 'a', 'front', 'of', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.43it/s]
+Loss: 3.231548329807063
+
+Epoch [12 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.44it/s]
+Loss: 3.1248342746680002
+
+Epoch [13 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'standing', 'front', 'of', 'a', 'front', 'of', 'a', 'a', '<eos>']
+100% 454/454 [01:25<00:00,  5.30it/s]
+Loss: 3.0244421811881046
+
+Epoch [14 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:24<00:00,  5.40it/s]
+Loss: 2.92250897443242
+
+Epoch [15 / 30]
+=> Saving checkpoint
+['three', 'girls', 'stand', 'in', 'front', 'of', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.46it/s]
+Loss: 2.8135218822483448
+
+Epoch [16 / 30]
+=> Saving checkpoint
+['three', 'girls', 'are', 'in', 'front', 'of', 'a', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.44it/s]
+Loss: 2.6936821304754015
+
+Epoch [17 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'front', 'of', 'a', 'a', 'crowd.', '<eos>']
+100% 454/454 [01:25<00:00,  5.30it/s]
+Loss: 2.582378069997359
+
+Epoch [18 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'front', 'of', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.43it/s]
+Loss: 2.4744517593131716
+
+Epoch [19 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'in', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:25<00:00,  5.29it/s]
+Loss: 2.371075096634516
+
+Epoch [20 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'in', 'front', 'of', 'a', '<eos>']
+100% 454/454 [01:25<00:00,  5.32it/s]
+Loss: 2.274832549336723
+
+Epoch [21 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'in', 'front', 'of', 'a', 'crowd.', '<eos>']
+100% 454/454 [01:25<00:00,  5.30it/s]
+Loss: 2.184353639375796
+
+Epoch [22 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'ad', 'in', 'a', 'a', '<eos>']
+100% 454/454 [01:22<00:00,  5.53it/s]
+Loss: 2.0954673930936973
+
+Epoch [23 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'front', 'of', 'a', 'a', '<eos>']
+100% 454/454 [01:25<00:00,  5.29it/s]
+Loss: 2.0151758015418366
+
+Epoch [24 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'a', 'of', 'in', 'in', 'front', 'of', 'a', 'christmas', '<eos>']
+100% 454/454 [01:24<00:00,  5.40it/s]
+Loss: 1.9371193474084796
+
+Epoch [25 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'in', 'a', 'a', 'a', 'crowd.', '<eos>']
+100% 454/454 [01:23<00:00,  5.45it/s]
+Loss: 1.8618769903014936
+
+Epoch [26 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:22<00:00,  5.48it/s]
+Loss: 1.791482834301331
+
+Epoch [27 / 30]
+=> Saving checkpoint
+['three', 'girls', 'stand', 'in', 'front', 'of', 'a', 'a', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:22<00:00,  5.48it/s]
+Loss: 1.722712602909441
+
+Epoch [28 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'in', 'a', 'a', 'a', '<eos>']
+100% 454/454 [01:23<00:00,  5.41it/s]
+Loss: 1.660130883759864
+
+Epoch [29 / 30]
+=> Saving checkpoint
+['three', 'girls', 'standing', 'in', 'front', 'of', 'a', 'ad', 'in', 'a', 'a', 'crowd.', '<eos>']
+100% 454/454 [01:23<00:00,  5.44it/s]
+Loss: 1.5904716166630715
