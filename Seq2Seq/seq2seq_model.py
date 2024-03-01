@@ -30,7 +30,7 @@ train_data, validation_data, test_data = Multi30k.splits(exts=('.de', '.en'),
                                                          fields=(german, english),
                                                          root='data')
 
-german.build_vocab(train_data, max_size=10000, min_freq=2) # Build vocabulary
+german.build_vocab(train_data, max_size=10000, min_freq=2)  # Build vocabulary
 english.build_vocab(train_data, max_size=10000, min_freq=2)
 
 
@@ -167,7 +167,7 @@ for epoch in range(num_epochs):
     print(translated_sentence)
     seq2seq_model.train()
 
-    for batch_idx, batch in  enumerate(tqdm(train_iterator)):
+    for batch_idx, batch in enumerate(tqdm(train_iterator)):
         input_data = batch.src.to(device)
         target_data = batch.trg.to(device)
 

@@ -5,9 +5,11 @@
 * Recurrent Neural Network - RNN, GRU, LSTM, Bidirectional-LSTM
 * MNIST Dataset
 * LeNet Architecture
-* ResNet Architecture
+* ResNet Architectures - (18, 34, 50, 101, 152)
 * Tensorboard
 * Torchtext
 * Seq2Seq model for language translation
+* Transformer (Attention is all you need)
+* Transformer-Seq2Seq for machine translation
 
   ![alt text](https://miro.medium.com/v2/resize:fit:300/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg)

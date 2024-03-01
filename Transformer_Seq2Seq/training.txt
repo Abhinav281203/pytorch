@@ -1,0 +1,1191 @@
+Epoch [0 / 500]
+=> Saving checkpoint
+['smock', 'pointing', 'turns', 'gazes', 'bear.', 'short-sleeved', 'short-sleeved', 'town', 'short-sleeved', 'bear.', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'rear', 'unique', 'speckled', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'bear.', 'short-sleeved', 'bear.', 'folded.', 'bear.', 'folded.', 'bear.', 'short-sleeved', 'folded.', 'bear.', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'town', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'short-sleeved', 'folded.', 'ax.', 'folded.', 'pointing', 'folded.', 'short-sleeved', 'short-sleeved', 'pointing']
+100% 907/907 [00:28<00:00, 31.89it/s]
+Loss: 3.836338067396473
+Epoch [1 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'boat', 'near', 'a', 'boat', '<eos>']
+100% 907/907 [00:27<00:00, 32.68it/s]
+Loss: 2.789835433712868
+Epoch [2 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'near', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 32.30it/s]
+Loss: 2.351063189459215
+Epoch [3 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.70it/s]
+Loss: 2.0582670872371804
+Epoch [4 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'boat', 'near', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.68it/s]
+Loss: 1.8302548445572269
+Epoch [5 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.80it/s]
+Loss: 1.6479587005543734
+Epoch [6 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'under', 'a', 'boat', 'beside', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.57it/s]
+Loss: 1.4930672777001361
+Epoch [7 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'covered', '<eos>']
+100% 907/907 [00:28<00:00, 32.12it/s]
+Loss: 1.3623613849232978
+Epoch [8 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'covered', '<eos>']
+100% 907/907 [00:28<00:00, 31.79it/s]
+Loss: 1.2522495587447775
+Epoch [9 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'near', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.44it/s]
+Loss: 1.1556674293935496
+Epoch [10 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.78it/s]
+Loss: 1.0729716335399675
+Epoch [11 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.88it/s]
+Loss: 1.0043462819143587
+Epoch [12 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.56it/s]
+Loss: 0.9385476847073472
+Epoch [13 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.45it/s]
+Loss: 0.884073496587747
+Epoch [14 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'near', 'a', 'boat', 'covered', 'wall.', '<eos>']
+100% 907/907 [00:29<00:00, 31.04it/s]
+Loss: 0.8325120083486627
+Epoch [15 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.49it/s]
+Loss: 0.7873958477046025
+Epoch [16 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'under', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.42it/s]
+Loss: 0.7479291664068859
+Epoch [17 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:29<00:00, 30.72it/s]
+Loss: 0.7087128774530964
+Epoch [18 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'near', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.71it/s]
+Loss: 0.6797122071767195
+Epoch [19 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'on', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.66it/s]
+Loss: 0.6456353243156988
+Epoch [20 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:29<00:00, 31.17it/s]
+Loss: 0.6171981864819321
+Epoch [21 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'near', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.46it/s]
+Loss: 0.5894034640923093
+Epoch [22 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.07it/s]
+Loss: 0.5659589887388223
+Epoch [23 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.33it/s]
+Loss: 0.5419378266510654
+Epoch [24 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'on', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 30.70it/s]
+Loss: 0.5232348199913232
+Epoch [25 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:29<00:00, 31.14it/s]
+Loss: 0.5001004151466005
+Epoch [26 / 500]
+=> Saving checkpoint
+['a', 'horse', 'jockey', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'boat.', '<eos>']
+100% 907/907 [00:29<00:00, 31.14it/s]
+Loss: 0.48352149649715215
+Epoch [27 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'boat', 'beside', 'a', 'boat', 'dressed', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.22it/s]
+Loss: 0.46777125378164985
+Epoch [28 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'on', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.48it/s]
+Loss: 0.4511040730079453
+Epoch [29 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.53it/s]
+Loss: 0.4338696428472967
+Epoch [30 / 500]
+=> Saving checkpoint
+['a', 'horse', 'messenger', 'beside', 'a', 'path', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 30.73it/s]
+Loss: 0.42129135406201307
+Epoch [31 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.52it/s]
+Loss: 0.4075702367865921
+Epoch [32 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.23it/s]
+Loss: 0.39544594511307585
+Epoch [33 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.52it/s]
+Loss: 0.38300983601197386
+Epoch [34 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'on', 'the', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.55it/s]
+Loss: 0.37103616276215823
+Epoch [35 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.15it/s]
+Loss: 0.3607645727932256
+Epoch [36 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.67it/s]
+Loss: 0.3497549585234107
+Epoch [37 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.74it/s]
+Loss: 0.34166037301967267
+Epoch [38 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.24it/s]
+Loss: 0.33382475852572013
+Epoch [39 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.74it/s]
+Loss: 0.32414253422417477
+Epoch [40 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.49it/s]
+Loss: 0.3157447184032484
+Epoch [41 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.33it/s]
+Loss: 0.3092948213761802
+Epoch [42 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.47it/s]
+Loss: 0.30060534180032117
+Epoch [43 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.35it/s]
+Loss: 0.2934645900899152
+Epoch [44 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.50it/s]
+Loss: 0.2851138128236741
+Epoch [45 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.47it/s]
+Loss: 0.28138239976622437
+Epoch [46 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.35it/s]
+Loss: 0.2729604503564956
+Epoch [47 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.47it/s]
+Loss: 0.2667217532454147
+Epoch [48 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.59it/s]
+Loss: 0.26243400418475815
+Epoch [49 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.12it/s]
+Loss: 0.25680058083960083
+Epoch [50 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.85it/s]
+Loss: 0.2510532982639204
+Epoch [51 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.74it/s]
+Loss: 0.24850747415584398
+Epoch [52 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.24it/s]
+Loss: 0.2407310370934969
+Epoch [53 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.47it/s]
+Loss: 0.2389198595857147
+Epoch [54 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.78it/s]
+Loss: 0.23327462846678174
+Epoch [55 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.09it/s]
+Loss: 0.2284054383635521
+Epoch [56 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.57it/s]
+Loss: 0.22420350672490277
+Epoch [57 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.17it/s]
+Loss: 0.22153668692119854
+Epoch [58 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.44it/s]
+Loss: 0.21705118489534878
+Epoch [59 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.57it/s]
+Loss: 0.21316478489317994
+Epoch [60 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.18it/s]
+Loss: 0.2109639786816353
+Epoch [61 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'corner', 'next', 'to', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.71it/s]
+Loss: 0.2084450640170419
+Epoch [62 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.47it/s]
+Loss: 0.2043075522257974
+Epoch [63 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.07it/s]
+Loss: 0.20140049032365867
+Epoch [64 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.62it/s]
+Loss: 0.1980587261037895
+Epoch [65 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.52it/s]
+Loss: 0.19353903013526932
+Epoch [66 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.51it/s]
+Loss: 0.19257714527904526
+Epoch [67 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.62it/s]
+Loss: 0.18772617665909092
+Epoch [68 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.44it/s]
+Loss: 0.18620287498835034
+Epoch [69 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.40it/s]
+Loss: 0.18603739809437914
+Epoch [70 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.44it/s]
+Loss: 0.18120669308626797
+Epoch [71 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', '<unk>', 'down', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 30.95it/s]
+Loss: 0.17653874670953182
+Epoch [72 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.53it/s]
+Loss: 0.17834886086872617
+Epoch [73 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.32it/s]
+Loss: 0.1743107349863389
+Epoch [74 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.54it/s]
+Loss: 0.17349704953430112
+Epoch [75 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'of', 'water.', '<eos>']
+100% 907/907 [00:28<00:00, 31.41it/s]
+Loss: 0.1712065973414607
+Epoch [76 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.35it/s]
+Loss: 0.16810698480301156
+Epoch [77 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.55it/s]
+Loss: 0.16643339897841708
+Epoch [78 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.46it/s]
+Loss: 0.1633734529942701
+Epoch [79 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.12it/s]
+Loss: 0.16204803786112165
+Epoch [80 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.67it/s]
+Loss: 0.1614088209421921
+Epoch [81 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', 'top.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.15727282049752517
+Epoch [82 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.34it/s]
+Loss: 0.155200484951151
+Epoch [83 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.65it/s]
+Loss: 0.15657867593516195
+Epoch [84 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.14it/s]
+Loss: 0.152800621943345
+Epoch [85 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.34it/s]
+Loss: 0.15367775418217547
+Epoch [86 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.78it/s]
+Loss: 0.14784989667832524
+Epoch [87 / 500]
+=> Saving checkpoint
+['a', 'horse', 'jockey', 'walks', 'by', 'a', 'bridge', 'under', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.50it/s]
+Loss: 0.1502772344085321
+Epoch [88 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.77it/s]
+Loss: 0.14650475707361033
+Epoch [89 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.10it/s]
+Loss: 0.14513121802018916
+Epoch [90 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.47it/s]
+Loss: 0.14403509052497024
+Epoch [91 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.89it/s]
+Loss: 0.14120582421335917
+Epoch [92 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.64it/s]
+Loss: 0.14144805248707631
+Epoch [93 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.28it/s]
+Loss: 0.1400179606107656
+Epoch [94 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.95it/s]
+Loss: 0.13899755171503228
+Epoch [95 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.59it/s]
+Loss: 0.13598931309702378
+Epoch [96 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.50it/s]
+Loss: 0.1349966493625165
+Epoch [97 / 500]
+=> Saving checkpoint
+['a', 'horse', 'mascot', 'rowing', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 32.01it/s]
+Loss: 0.13390999602804898
+Epoch [98 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.09it/s]
+Loss: 0.1314586440374399
+Epoch [99 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.21it/s]
+Loss: 0.13305797651738685
+Epoch [100 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.88it/s]
+Loss: 0.1306402641179116
+Epoch [101 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.86it/s]
+Loss: 0.12967674349369984
+Epoch [102 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:29<00:00, 31.27it/s]
+Loss: 0.12754806498519444
+Epoch [103 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.91it/s]
+Loss: 0.12648239086126414
+Epoch [104 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.82it/s]
+Loss: 0.12427171443762564
+Epoch [105 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.76it/s]
+Loss: 0.12516845767658363
+Epoch [106 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.99it/s]
+Loss: 0.1238724496277191
+Epoch [107 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.03it/s]
+Loss: 0.1236928547480962
+Epoch [108 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.61it/s]
+Loss: 0.12386725792433356
+Epoch [109 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.04it/s]
+Loss: 0.12097552865990073
+Epoch [110 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'near', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 32.12it/s]
+Loss: 0.11862017857290746
+Epoch [111 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.54it/s]
+Loss: 0.12016401402323683
+Epoch [112 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', '<unk>', 'beside', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.78it/s]
+Loss: 0.11731107308515969
+Epoch [113 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.43it/s]
+Loss: 0.1175995345094961
+Epoch [114 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.99it/s]
+Loss: 0.11575160578484703
+Epoch [115 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.98it/s]
+Loss: 0.11613019439571484
+Epoch [116 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.53it/s]
+Loss: 0.11341641020428188
+Epoch [117 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'a', 'boat', 'next', 'to', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.68it/s]
+Loss: 0.11374065890300365
+Epoch [118 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.03it/s]
+Loss: 0.11244620497994609
+Epoch [119 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.70it/s]
+Loss: 0.11316793737881699
+Epoch [120 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.77it/s]
+Loss: 0.11188848523675672
+Epoch [121 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.66it/s]
+Loss: 0.10972764001298765
+Epoch [122 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.10980155080754019
+Epoch [123 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.94it/s]
+Loss: 0.10776185034440529
+Epoch [124 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.78it/s]
+Loss: 0.10665523836259805
+Epoch [125 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.51it/s]
+Loss: 0.10691037904491696
+Epoch [126 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.85it/s]
+Loss: 0.10447610226329396
+Epoch [127 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.86it/s]
+Loss: 0.10468026639353546
+Epoch [128 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.53it/s]
+Loss: 0.10425187750229696
+Epoch [129 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.82it/s]
+Loss: 0.10147237154843065
+Epoch [130 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'underneath', 'a', 'bridge', 'near', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.89it/s]
+Loss: 0.10201789857871017
+Epoch [131 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.79it/s]
+Loss: 0.102506367890154
+Epoch [132 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.73it/s]
+Loss: 0.10093309813463504
+Epoch [133 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.65it/s]
+Loss: 0.10006122397671657
+Epoch [134 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.82it/s]
+Loss: 0.09826748264294279
+Epoch [135 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.95it/s]
+Loss: 0.09915921868101304
+Epoch [136 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.78it/s]
+Loss: 0.09718793149844486
+Epoch [137 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.00it/s]
+Loss: 0.09704085081906079
+Epoch [138 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'beneath', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.99it/s]
+Loss: 0.09663134538840663
+Epoch [139 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'beneath', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.89it/s]
+Loss: 0.09518427411227794
+Epoch [140 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.96it/s]
+Loss: 0.09554306151142063
+Epoch [141 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.98it/s]
+Loss: 0.09450657691399936
+Epoch [142 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.77it/s]
+Loss: 0.09417248409048397
+Epoch [143 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.05it/s]
+Loss: 0.09348954854362625
+Epoch [144 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 32.11it/s]
+Loss: 0.09145761018797607
+Epoch [145 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.90it/s]
+Loss: 0.09138222409015914
+Epoch [146 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.73it/s]
+Loss: 0.08990879344436635
+Epoch [147 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.71it/s]
+Loss: 0.09057677686912682
+Epoch [148 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.69it/s]
+Loss: 0.08984867990008723
+Epoch [149 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.84it/s]
+Loss: 0.08875708578538474
+Epoch [150 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.75it/s]
+Loss: 0.08901675643097473
+Epoch [151 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 30.64it/s]
+Loss: 0.08800779039691209
+Epoch [152 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.46it/s]
+Loss: 0.08576538179032792
+Epoch [153 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'underneath', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.61it/s]
+Loss: 0.08606865991711977
+Epoch [154 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.76it/s]
+Loss: 0.08507481436198937
+Epoch [155 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.84it/s]
+Loss: 0.08416269108850218
+Epoch [156 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.66it/s]
+Loss: 0.08470731199633787
+Epoch [157 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.02it/s]
+Loss: 0.08227943741360139
+Epoch [158 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 32.06it/s]
+Loss: 0.0820215675536268
+Epoch [159 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.56it/s]
+Loss: 0.08164242236097698
+Epoch [160 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.62it/s]
+Loss: 0.08098873606746423
+Epoch [161 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.38it/s]
+Loss: 0.08004417619642278
+Epoch [162 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 30.99it/s]
+Loss: 0.08070647553874481
+Epoch [163 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beneath', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.94it/s]
+Loss: 0.07904556284575438
+Epoch [164 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.93it/s]
+Loss: 0.07790525156343325
+Epoch [165 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.45it/s]
+Loss: 0.07937778941280688
+Epoch [166 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.94it/s]
+Loss: 0.07724618104357342
+Epoch [167 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.94it/s]
+Loss: 0.07777406271883874
+Epoch [168 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.07774373548990475
+Epoch [169 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.77it/s]
+Loss: 0.0768769154306645
+Epoch [170 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.59it/s]
+Loss: 0.0762339369881623
+Epoch [171 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.20it/s]
+Loss: 0.07467505492705363
+Epoch [172 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.86it/s]
+Loss: 0.07347825199649018
+Epoch [173 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.75it/s]
+Loss: 0.07378089696255152
+Epoch [174 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.12it/s]
+Loss: 0.07345967465147064
+Epoch [175 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.77it/s]
+Loss: 0.07331289592493724
+Epoch [176 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.82it/s]
+Loss: 0.07158399448763937
+Epoch [177 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.19it/s]
+Loss: 0.07184442274001362
+Epoch [178 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.81it/s]
+Loss: 0.07093185391544048
+Epoch [179 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.82it/s]
+Loss: 0.07137876891560828
+Epoch [180 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.53it/s]
+Loss: 0.06988608969381652
+Epoch [181 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.81it/s]
+Loss: 0.06975313489938353
+Epoch [182 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.72it/s]
+Loss: 0.07046501539532576
+Epoch [183 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.52it/s]
+Loss: 0.06904823615707564
+Epoch [184 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'underneath', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.76it/s]
+Loss: 0.06897147941118663
+Epoch [185 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat', '<eos>']
+100% 907/907 [00:28<00:00, 31.50it/s]
+Loss: 0.0672944717010629
+Epoch [186 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.56it/s]
+Loss: 0.0671814733689041
+Epoch [187 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.65it/s]
+Loss: 0.06772903679195451
+Epoch [188 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.34it/s]
+Loss: 0.067249253557537
+Epoch [189 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.74it/s]
+Loss: 0.06679770250855037
+Epoch [190 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.74it/s]
+Loss: 0.0662139640980356
+Epoch [191 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.17it/s]
+Loss: 0.0663531242300938
+Epoch [192 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.64it/s]
+Loss: 0.06456666124179598
+Epoch [193 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.50it/s]
+Loss: 0.06451513093681606
+Epoch [194 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.66it/s]
+Loss: 0.06442133595400963
+Epoch [195 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.60it/s]
+Loss: 0.06312927510897406
+Epoch [196 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.48it/s]
+Loss: 0.06297917162861917
+Epoch [197 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.06369537255000796
+Epoch [198 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.76it/s]
+Loss: 0.062327754091319465
+Epoch [199 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.49it/s]
+Loss: 0.06189956694334137
+Epoch [200 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.73it/s]
+Loss: 0.06249227330484967
+Epoch [201 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.06133969314807108
+Epoch [202 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.36it/s]
+Loss: 0.060928091804200196
+Epoch [203 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.67it/s]
+Loss: 0.0602062795924222
+Epoch [204 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.67it/s]
+Loss: 0.06036922932102406
+Epoch [205 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.23it/s]
+Loss: 0.06059124127498601
+Epoch [206 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'but', 'barely', 'in', 'the', 'fall.', '<eos>']
+100% 907/907 [00:28<00:00, 31.71it/s]
+Loss: 0.06011750949587767
+Epoch [207 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'who', 'is', 'wearing', 'a', 'shirts.', '<eos>']
+100% 907/907 [00:28<00:00, 31.32it/s]
+Loss: 0.05836183033922591
+Epoch [208 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.34it/s]
+Loss: 0.058554224632454514
+Epoch [209 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.77it/s]
+Loss: 0.05940107855526885
+Epoch [210 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.30it/s]
+Loss: 0.058307500713214264
+Epoch [211 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.056438938241201435
+Epoch [212 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.62it/s]
+Loss: 0.05718267026543206
+Epoch [213 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'sitting', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.23it/s]
+Loss: 0.05768836307972916
+Epoch [214 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.70it/s]
+Loss: 0.05829322300779468
+Epoch [215 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.87it/s]
+Loss: 0.056912147138645626
+Epoch [216 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.23it/s]
+Loss: 0.05680783356662096
+Epoch [217 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.70it/s]
+Loss: 0.056030564759205925
+Epoch [218 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.66it/s]
+Loss: 0.0547374895858027
+Epoch [219 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.33it/s]
+Loss: 0.05619351364376461
+Epoch [220 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.63it/s]
+Loss: 0.05615722039014167
+Epoch [221 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.05510603673468614
+Epoch [222 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'who', 'is', 'wearing', 'the', 'jacket.', '<eos>']
+100% 907/907 [00:28<00:00, 31.57it/s]
+Loss: 0.05497355357607233
+Epoch [223 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.81it/s]
+Loss: 0.053904734374010624
+Epoch [224 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.58it/s]
+Loss: 0.05450920594287287
+Epoch [225 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beneath', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.69it/s]
+Loss: 0.05429097912515603
+Epoch [226 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.77it/s]
+Loss: 0.05355053330292102
+Epoch [227 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.31it/s]
+Loss: 0.0548742208034293
+Epoch [228 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.60it/s]
+Loss: 0.05349848258987792
+Epoch [229 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.41it/s]
+Loss: 0.05264100344654464
+Epoch [230 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'near', 'a', 'boat', '<eos>']
+100% 907/907 [00:29<00:00, 31.12it/s]
+Loss: 0.0537154018435352
+Epoch [231 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.66it/s]
+Loss: 0.053151092170137
+Epoch [232 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'she', 'is', 'leaning', 'over', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.47it/s]
+Loss: 0.053997328207143216
+Epoch [233 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'beneath', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.54it/s]
+Loss: 0.05111968025509699
+Epoch [234 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.55it/s]
+Loss: 0.05168092806665422
+Epoch [235 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:29<00:00, 31.12it/s]
+Loss: 0.051580947986572916
+Epoch [236 / 500]
+=> Saving checkpoint
+['a', 'horse', 'walks', 'under', 'a', 'bridge', 'next', 'to', 'a', 'boat.', '<eos>']
+100% 907/907 [00:28<00:00, 31.64it/s]
+Loss: 0.052056071770509915
+Epoch [237 / 500]
+=> Saving checkpoint
+['a', 'horse', 'is', 'walking', 'beside', 'a', 'boat', 'under', 'a', 'bridge.', '<eos>']
+100% 907/907 [00:28<00:00, 31.49it/s]
+Loss: 0.051345820994606155
+Epoch [238 / 500]
