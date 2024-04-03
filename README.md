@@ -11,5 +11,6 @@
 * Seq2Seq model for language translation
 * Transformer (Attention is all you need)
 * Transformer-Seq2Seq for machine translation
+* Generative Adversarial Network
 
   ![alt text](https://miro.medium.com/v2/resize:fit:300/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg)
